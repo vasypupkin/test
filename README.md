@@ -1,2 +1,2 @@
 # test
-My test repository
+My super test repository
